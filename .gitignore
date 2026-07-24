@@ -1,0 +1,31 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Приватные данные пользователя
+user_data/private_key.txt
+user_data/recipients.txt
+user_data/proxies.txt
+user_data/failed.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+
